@@ -1,4 +1,12 @@
-# Hero's Timer Pack
+# Kat's fork of Hero's Timer Pack
+
+Hi! I'm kittywitch or Kat. I've been developing TaimiHUD (a port of various BlishHUD addons to Nexus), starting with Timers.
+
+I will be adding features to this pack, such as HP and CC % triggers, but for now, I have restored Sabetha to sanity.
+
+# Original README
+
+## Hero's Timer Pack
 
 These are timers by QuitarHero created for Charr's Timer Module.
 
