@@ -1,5 +1,5 @@
 {
-  "id": "htp.strike.b13.challenge",
+  "id": "ktp.strike.b13.challenge",
   "name": "Temple of Febe CM\nBoss and Embodiment Attacks",
   "category": "Strikes",
   "description": "• Type: Hotkey ( Trigger Key 0 )\n• Time Skip Hotkeys (1s):\n  • Cerus: ( Trigger Key 4 )\n  • Embodiments: ( Trigger Key 3 )\n• Automatically begins on fight start.\n• Activate main Hotkey after split phases\ncomplete and when 10%'s breakbar is broken.\n--- Displays ---\n• Cerus's Attack Rotation\n• Embodiment's Attack Rotation\n• TTS pre-mechanic callouts\n• Pre-Markers for Aspects of Rage and Envy\n• Shadow's Resistance Timer",

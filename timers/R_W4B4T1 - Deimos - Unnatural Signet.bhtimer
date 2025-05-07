@@ -1,5 +1,5 @@
 {
-  "id": "htp.raid.w4.b4.signet",
+  "id": "ktp.raid.w4.b4.signet",
   "name": "Deimos\nUnnatural Signet",
   "category": "W4: Bastion of the Penitent",
   "description": "• Type: Hotkey ( Trigger Key 1 )\n• Activate when Unnatural Signet is applied\nthe first time.\n• This timer assumes 0% alacrity.\n---Displays---\n• How long Unnatural Signet lasts.\n• How long until the next Unnatural Signet.",

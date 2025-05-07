@@ -1,5 +1,5 @@
 {
-  "id": "htp.raid.w5.b4.all",
+  "id": "ktp.raid.w5.b4.all",
   "name": "Dhuum\nBoss Attacks, Spawns, Afflictions",
   "category": "W5: Hall of Chains",
   "description": "• Type: Automatic\n---Displays---\n• When Death Mark happens.\n• When Greater Death Mark happens.\n• When Enforcers and Dhuum spawn.\n• When Afflictions begin and can be held.",

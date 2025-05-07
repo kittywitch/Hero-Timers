@@ -1,5 +1,5 @@
 {
-  "id": "htp.strike.b11.challenge",
+  "id": "ktp.strike.b11.challenge",
   "name": "Old Lion's Court CM\nSpawns and Breakbars",
   "category": "Strikes",
   "description": "• Type: Hotkey ( Trigger Key 0 )\n• Automatically begins on fight start.\n• Activate Hotkey on Indigo death.\n• Note: It's normal if a CC spawn doesn't happen\non time. It doesn't affect future spawns.\n--- Displays ---\n• Puzzle and initial Watchknight spawns.\n• When Watchknights come down mid-fight.\n• How long to break a Watchknight.",

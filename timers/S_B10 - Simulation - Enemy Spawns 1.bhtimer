@@ -1,5 +1,5 @@
 {
-  "id": "htp.simulation.strike.b10.challenge.enemySpawns.one",
+  "id": "ktp.simulation.strike.b10.challenge.enemySpawns.one",
   "name": "[Addon] Harvest Temple CM\nStormseer and Soo-Won Spawns",
   "category": "Simulation",
   "description": "• Type: Hotkey ( Trigger Key 0 )\n• Enforces 'Reset Button' for timer reset.\n---Displays---\n• Jormag's Stormseer spawn timings.\n• Soo-Won's Enemy spawn timings.",

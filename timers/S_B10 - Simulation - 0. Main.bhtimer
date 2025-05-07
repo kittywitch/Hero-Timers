@@ -1,5 +1,5 @@
 {
-  "id": "htp.simulation.strike.b10.challenge",
+  "id": "ktp.simulation.strike.b10.challenge",
   "name": "[Main] Harvest Temple CM\nCore Simulation",
   "category": "Simulation",
   "description": "• Type: Hotkey ( Trigger Key 0 )\n• This timer is only meant for out-of-combat purposes.\nUse the Global Mechanics timer during combat.\n• Enforces 'Reset Button' for timer reset.\n• [Addon] timers function the same as this timer,\nand should be enabled alongside this timer.\n• This timer simulates the base encounter, and does not account for\nmissing, fast, or otherwise bugged attacks and mechanics.\n---Does Not Display---\n• Jormag's third green set.\n• Jormag's Icy Spike Attack.\n• Dragonvoid's projectile and beam visuals.\n• Heart and P4 Amalgamate movement and attacks.\n• Actual Enemy Spawns.\n• Dragon Orbs (see wiki/support discord).",

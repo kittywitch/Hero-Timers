@@ -1,5 +1,5 @@
 {
-  "id": "htp.raid.w8.b2.ereg_blobsofblight",
+  "id": "ktp.raid.w8.b2.ereg_blobsofblight",
   "name": "Ereg, the Enabler\nBlobs of Blight",
   "category": "W8: Mount Balrior",
   "description": "• Type: Hotkey ( Trigger Key 2 )\n• Automatically begins on fight entry.\n• Activate when Ereg summons Blobs of Blight.\n---Disclaimer---\n• Ereg summons Blobs of Blight roughly every 80 seconds.\nIf Ereg summons Blobs of Blight while Greer is phasing at 65%/35%,\nit may be cancelled and Ereg will try to use it again as soon as possible.\n---Displays---\n• When Ereg will summon Blobs of Blight again.",

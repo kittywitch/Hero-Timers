@@ -1,5 +1,5 @@
 {
-  "id": "htp.raid.w5.b4.golems",
+  "id": "ktp.raid.w5.b4.golems",
   "name": "Dhuum\nMessenger Spawns",
   "category": "W5: Hall of Chains",
   "description": "• Type: Automatic\n• Note #1: Messenger spawn timings are\nvariable, and as such are averaged.\n• Note #2: Medium Orb collections\naffect Messenger spawn positions.\nUse the number in \"[#/#]\" to keep track.\n---Displays---\n• When each Messenger spawns.\n• Markers for Messenger spawn positions.",

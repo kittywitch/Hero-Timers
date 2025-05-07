@@ -1,5 +1,5 @@
 {
-  "id": "htp.raid.w8.b2.blobofblight",
+  "id": "ktp.raid.w8.b2.blobofblight",
   "name": "Greer, the Blightbringer\nBlobs of Blight",
   "category": "W8: Mount Balrior",
   "description": "• Type: Hotkey ( Trigger Key 0 )\n• Automatically begins on fight entry.\n• Activate when Greer summons Blobs of Blight.\n(don't need to use hotkey for 1st one)\n• Works for both Normal and Challenge modes.\n---Disclaimer---\n• Greer prioritizes Blobs of Blight at the start of P1 and 2,\nand after Eruption of Rot (greens) in P3.\nThis does not always happen, but will still be one of\nthe first few skills used at the start of each phase.\n---Displays---\n• When Greer will use Blobs of Blight again.",

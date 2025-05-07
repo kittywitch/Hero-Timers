@@ -1,5 +1,5 @@
 {
-  "id": "htp.strike.b13.normal",
+  "id": "ktp.strike.b13.normal",
   "name": "Temple of Febe\nBoss Attacks",
   "category": "Strikes",
   "description": "• Type: Hotkey ( Trigger Key 0 )\n• Automatically begins on fight start.\n• Activate Hotkey after split phases complete.\n• Note: Timer becomes inaccurate if Cerus gets\nQuickness/Alacrity, or if CC fails.\n--- Displays ---\n• Cerus's Attack Rotation",
