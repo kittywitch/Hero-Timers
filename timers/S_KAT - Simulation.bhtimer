@@ -25,7 +25,12 @@
           "alertDuration": 9999, "timestamps": [0],
           "icon": "Assets/Strikes/B10/B10-Default.png"
         }
-      ]
+      ],
+      "markers": {
+        { "position": [-91.8737, 41.5246, 116.5], "size": 1.5, "fadeCenter": false,
+          "texture": "Assets/Strikes/B10/Void Melter Location.png", "duration": 12, "timestamps": [0]
+        },
+      ],
     },
     {
       "name": "Harvest Temple Simulation - Purification 1",
